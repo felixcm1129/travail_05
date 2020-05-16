@@ -7,7 +7,7 @@
         xmlns:vm="clr-namespace:BillingManagement.UI.ViewModels"
         xmlns:views="clr-namespace:BillingManagement.UI.Views"
         mc:Ignorable="d"
-        Title="Gestion de clients" Width="1280" Height="968"
+        Title="Gestion des clients" Width="1280" Height="968"
         MinHeight="768" MinWidth="800">
     <Window.Resources>
         <DataTemplate DataType="{x:Type vm:CustomerViewModel}">
