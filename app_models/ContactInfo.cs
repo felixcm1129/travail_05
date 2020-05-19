@@ -6,5 +6,7 @@
         public string Contact { get; set; }
 
         public string Info => $"{ContactType} : {Contact}";
+
+        public int ContactInfoID { get; set; }
     }
 }

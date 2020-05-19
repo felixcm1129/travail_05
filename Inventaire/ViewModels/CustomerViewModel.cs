@@ -69,9 +69,5 @@ namespace BillingManagement.UI.ViewModels
             return c.Invoices.Count == 0;
         }
 
-
-
-
-
     }
 }
