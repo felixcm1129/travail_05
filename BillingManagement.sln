@@ -10,7 +10,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BillingManagement.UI", "Inv
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BillingManagement.Models", "app_models\BillingManagement.Models.csproj", "{58FEC7DF-7358-4AFF-BFEC-225473BF7854}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillingManagement.Business", "BillingManagement.Business\BillingManagement.Business.csproj", "{49BA1559-D3A8-4B73-95B5-A1248705B6ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BillingManagement.Business", "BillingManagement.Business\BillingManagement.Business.csproj", "{49BA1559-D3A8-4B73-95B5-A1248705B6ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

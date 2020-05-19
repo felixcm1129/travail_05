@@ -15,10 +15,12 @@ namespace BillingManagement.Models
         private string postalCode;
         private string picturePath;
         private string contactInfo;
+
         private ObservableCollection<ContactInfo> contactInfos = new ObservableCollection<ContactInfo>();
         private ObservableCollection<Invoice> invoices = new ObservableCollection<Invoice>();
 
         #region Property definitions
+        public int CustomerID { get; set; }
         public string Name
         {
             get => name;
@@ -131,3 +133,4 @@ namespace BillingManagement.Models
         }
     }
 }
+
